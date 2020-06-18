@@ -7,3 +7,8 @@ pandas
 scikit_learn
 azure-cognitiveservices-search-imagesearch
 sentencepiece
+bqplot
+ipympl
+ipyvolume
+scipy
+voila
